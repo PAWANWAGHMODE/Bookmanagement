@@ -9,6 +9,7 @@ public class BookManagementSyatemJpaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BookManagementSyatemJpaApplication.class, args);
 		System.out.println("Application started....");
+		System.out.println("applicatiion restarted...............");
 	}
 
 }
